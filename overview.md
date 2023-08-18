@@ -1,4 +1,9 @@
-# Overview of to PI Planning
+---
+title: "PI Planning - Overview"
+permalink: /overview
+---
+
+# Overview of PI Planning
 
 The Agile Manifesto states, "The most efficient and effective method of conveying information to and within a development team is a face-to-face conversation."
 
